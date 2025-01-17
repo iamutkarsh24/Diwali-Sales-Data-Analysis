@@ -1,5 +1,5 @@
 # Diwali Sales Data Analysis
-![Hospitality Data Analysis](https://img.freepik.com/premium-vector/diwali-festival-sale-banner-indian-kids-traditional-costume-dancing_218660-757.jpg)
+![Diwali Sales Data Analysis](https://img.freepik.com/premium-vector/diwali-festival-sale-banner-indian-kids-traditional-costume-dancing_218660-757.jpg)
 
 ## About the Project 🚀
 This project aims to analyze sales data 
